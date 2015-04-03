@@ -1,19 +1,19 @@
 #Textul Constituției
 - Titlul I - PRINCIPII GENERALE
-    - [Articolul 1. Statul Republica Moldova](Titlul I/Articolul 1.md)
-    - [Articolul 2. Suveranitatea şi puterea de stat](Titlul I/Articolul 2.md)
-    - [Articolul 3. Teritoriul](Titlul I/Articolul 3.md)
-    - [Articolul 4. Drepturile şi libertăţile omului](Titlul I/Articolul 4.md)
-    - [Articolul 5. Democraţia şi pluralismul politic](Titlul I/Articolul 5.md)
-    - [Articolul 6. Separaţia şi colaborarea puterilor](Titlul I/Articolul 6.md)
-    - [Articolul 7. Constituţia, Lege Supremă](Titlul I/Articolul 7.md)
-    - [Articolul 8. Respectarea dreptului internaţional şi a tratatelor internaţionale](Titlul I/Articolul 8.md)
-    - [Articolul 9. Principiile fundamentale privind proprietatea](Titlul I/Articolul 9.md)
-    - [Articolul 10. Unitatea poporului şi dreptul la identitate](Titlul I/Articolul 10.md)
-    - [Articolul 11. Republica Moldova, stat neutru](Titlul I/Articolul 11.md)
-    - [Articolul 12. Simbolurile statului](Titlul I/Articolul 12.md)
-    - [Articolul 13. Limba de stat, funcţionarea celorlalte limbi](Titlul I/Articolul 13.md)
-    - [Articolul 14. Capitala](Titlul I/Articolul 14.md)
+    - [Articolul 1. Statul Republica Moldova](Textul Constituției/Titlul I/Articolul 1.md)
+    - [Articolul 2. Suveranitatea şi puterea de stat](Textul Constituției/Titlul I/Articolul 2.md)
+    - [Articolul 3. Teritoriul](Textul Constituției/Titlul I/Articolul 3.md)
+    - [Articolul 4. Drepturile şi libertăţile omului](Textul Constituției/Titlul I/Articolul 4.md)
+    - [Articolul 5. Democraţia şi pluralismul politic](Textul Constituției/Titlul I/Articolul 5.md)
+    - [Articolul 6. Separaţia şi colaborarea puterilor](Textul Constituției/Titlul I/Articolul 6.md)
+    - [Articolul 7. Constituţia, Lege Supremă](Textul Constituției/Titlul I/Articolul 7.md)
+    - [Articolul 8. Respectarea dreptului internaţional şi a tratatelor internaţionale](Textul Constituției/Titlul I/Articolul 8.md)
+    - [Articolul 9. Principiile fundamentale privind proprietatea](Textul Constituției/Titlul I/Articolul 9.md)
+    - [Articolul 10. Unitatea poporului şi dreptul la identitate](Textul Constituției/Titlul I/Articolul 10.md)
+    - [Articolul 11. Republica Moldova, stat neutru](Textul Constituției/Titlul I/Articolul 11.md)
+    - [Articolul 12. Simbolurile statului](Textul Constituției/Titlul I/Articolul 12.md)
+    - [Articolul 13. Limba de stat, funcţionarea celorlalte limbi](Textul Constituției/Titlul I/Articolul 13.md)
+    - [Articolul 14. Capitala](Textul Constituției/Titlul I/Articolul 14.md)
 - Titlul II - DREPTURILE, LIBERTĂŢILE ŞI ÎNDATORIRILE FUNDAMENTALE
   - CAPITOLUL I - DISPOZIŢII GENERALE
     - Articolul 15. Universalitatea
