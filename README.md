@@ -1,7 +1,6 @@
-# constitutia-republicii-moldova
-Constituția Republicii Moldova
+# Constituția Republicii Moldova
 
-[CUPRINSUL CONSTITUŢIEI](Textul Constituției/CUPRINSUL CONSTITUŢIEI.md)
+[Descarcă cartea](https://www.gitbook.com/book/anatoliegolovco/constitutia-republicii-moldova)
 
 
 [sursa](http://lex.justice.md/document_rom.php?id=44B9F30E:7AC17731)
