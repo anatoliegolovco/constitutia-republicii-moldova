@@ -1,4 +1,4 @@
-# Statul Republica Moldova
+# Articolul 1 - Statul Republica Moldova
 
 (1) Republica Moldova este un stat suveran şi independent, unitar şi indivizibil.
 

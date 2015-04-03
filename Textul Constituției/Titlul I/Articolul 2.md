@@ -1,4 +1,4 @@
-# Suveranitatea şi puterea de stat
+# Articolul 2 - Suveranitatea şi puterea de stat
 
 (1) Suveranitatea naţională aparţine poporului Republicii Moldova, care o exercită în mod direct şi prin organele sale reprezentative, în formele stabilite de Constituţie.
 
