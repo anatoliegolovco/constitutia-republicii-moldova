@@ -1,4 +1,4 @@
-# Titlul I PRINCIPII GENERALE
+# Titlul I - PRINCIPII GENERALE
 
 * [Art. 1. Statul Republica Moldova](Titlul I/Articolul 1.md)
 * [Art. 2. Suveranitatea şi puterea de stat](Titlul I/Articolul 2.md)
@@ -15,8 +15,8 @@
 * [Art. 13. Limba de stat, funcţionarea celorlalte limbi](Titlul I/Articolul 13.md)
 * [Art. 14. Capitala](Titlul I/Articolul 14.md)
 
-# Titlul II DREPTURILE, LIBERTĂŢILE ŞI ÎNDATORIRILE FUNDAMENTALE
-## CAPITOLUL I DISPOZIŢII GENERALE
+# Titlul II - DREPTURILE, LIBERTĂŢILE ŞI ÎNDATORIRILE FUNDAMENTALE
+## CAPITOLUL I - DISPOZIŢII GENERALE
 
 * Art. 15. Universalitatea
 * Art. 16. Egalitatea
@@ -28,7 +28,7 @@
 * Art. 22. Neretroactivitatea legii
 * Art. 23. Dreptul fiecărui om de a-şi cunoaşte drepturile şi îndatoririle
 
-## Capitolul II DREPTURILE ŞI LIBERTĂŢILE FUNDAMENTALE
+## Capitolul II - DREPTURILE ŞI LIBERTĂŢILE FUNDAMENTALE
 
 * Art. 24. Dreptul la viaţă şi la integritate fizică şi psihică
 * Art. 25. Libertatea individuală şi siguranţa persoanei
@@ -62,7 +62,7 @@
 * Art. 53. Dreptul persoanei vătămate de o autoritate publică
 * Art. 54. Restrîngerea exerciţiului unor drepturi sau al unor libertăţi
 
-## Capitolul III ÎNDATORIRILE FUNDAMENTALE
+## Capitolul III - ÎNDATORIRILE FUNDAMENTALE
 
 * Art. 55. Exercitarea în sistem a drepturilor şi a obligaţiilor
 * Art. 56. Devotamentul faţă de ţară
@@ -70,9 +70,9 @@
 * Art. 58. Contribuţii financiare
 * Art. 59. Protecţia mediului înconjurător şi ocrotirea monumentelor
 
-# Titlul III AUTORITĂŢILE PUBLICE
-## Capitolul IV PARLAMENTUL
-### Secţiunea 1 Organizare şi funcţionare
+# Titlul III - AUTORITĂŢILE PUBLICE
+## Capitolul IV - PARLAMENTUL
+### Secţiunea 1 - Organizare şi funcţionare
 
 * Art. 60. Parlamentul, organ reprezentativ suprem şi legislativ
 * Art. 61. Alegerea Parlamentului
@@ -83,14 +83,14 @@
 * Art. 66. Atribuţiile de bază
 * Art. 67. Sesiuni
 
-### Secţiunea a 2-a Statutul deputaţilor
+### Secţiunea a 2-a - Statutul deputaţilor
 
 * Art. 68. Mandatul reprezentativ
 * Art. 69. Mandatul deputaţilor
 * Art. 70. Incompatibilităţi şi imunităţi
 * Art. 71. Independenţa opiniilor
 
-### Secţiunea a 3-a Legiferarea
+### Secţiunea a 3-a - Legiferarea
 
 * Art. 72. Categorii de legi
 * Art. 73. Iniţiativa legislativă
@@ -98,7 +98,7 @@
 * Art. 75. Referendumul
 * Art. 76. Intrarea în vigoare a legii
 
-## Capitolul V PREŞEDINTELE REPUBLICII MOLDOVA
+## Capitolul V - PREŞEDINTELE REPUBLICII MOLDOVA
 
 * Art. 77. Preşedintele Republicii Moldova, şeful statului
 * Art. 78. Alegerea Preşedintelui
@@ -120,7 +120,7 @@
 * Art. 94. Actele Preşedintelui
 * Art. 95. Resursele financiare ale aparatului Preşedintelui, indemnizaţia şi alte drepturi
 
-## Capitolul VI GUVERNUL
+## Capitolul VI - GUVERNUL
 
 * Art. 96. Rolul
 * Art. 97. Structura
@@ -131,13 +131,13 @@
 * Art.102. Actele Guvernului
 * Art.103. Încetarea mandatului
 
-## Capitolul VII RAPORTURILE PARLAMENTULUI CU GUVERNUL
+## Capitolul VII - RAPORTURILE PARLAMENTULUI CU GUVERNUL
 
 * Art.104. Informarea Parlamentului
 * Art.105. Întrebări şi interpelări
 * Art.106. Exprimarea neîncrederii
 
-## Capitolul VIIIADMINISTRAŢIA PUBLICĂ
+## Capitolul VIII - ADMINISTRAŢIA PUBLICĂ
 
 * Art.107. Administraţia publică centrală de specialitate
 * Art.108. Forţele armate
@@ -147,8 +147,8 @@
 * Art.112. Autorităţile săteşti şi orăşeneşti
 * Art.113. Consiliul raional
 
-## Capitolul IX AUTORITATEA JUDECĂTOREASCĂ
-### Secţiunea 1 Instanţele judecătoreşti
+## Capitolul IX - AUTORITATEA JUDECĂTOREASCĂ
+### Secţiunea 1 - Instanţele judecătoreşti
 
 * Art.114. Înfăptuirea justiţiei
 * Art.115. Instanţele judecătoreşti
@@ -159,17 +159,17 @@
 * Art.120. Caracterul obligatoriu al sentinţelor şi al altor hotărîri judecătoreşti definitive
 * Art.121. Resursele financiare ale instanţelor judecătoreşti, indemnizaţia şi alte drepturi
 
-### Secţiunea a 2-a Consiliul Superior al Magistraturii
+### Secţiunea a 2-a - Consiliul Superior al Magistraturii
 
 * Art.122. Componenţa
 * Art.123. Atribuţiile
 
-### Secţiunea a 3-a Procuratura
+### Secţiunea a 3-a - Procuratura
 
 * Art.124. Atribuţiile şi structura
 * Art.125. Mandatul procurorilor
 
-# Titlul IV ECONOMIA NAŢIONALĂ ŞI FINANŢELE PUBLICE
+# Titlul IV - ECONOMIA NAŢIONALĂ ŞI FINANŢELE PUBLICE
 
 * Art.126. Economia
 * Art.127. Proprietatea
@@ -180,7 +180,7 @@
 * Art.132. Sistemul fiscal
 * Art.133. Curtea de Conturi
 
-# Titlul V CURTEA CONSTITUŢIONALĂ
+# Titlul V - CURTEA CONSTITUŢIONALĂ
 
 * Art.134. Statutul
 * Art.135. Atribuţiile
@@ -190,13 +190,13 @@
 * Art.139. Incompatibilităţi
 * Art.140. Hotărîrile Curţii Constituţionale
 
-# Titlul VI REVIZUIREA CONSTITUŢIEI
+# Titlul VI - REVIZUIREA CONSTITUŢIEI
 
 * Art.141. Iniţiativa revizuirii
 * Art.142. Limitele revizuirii
 * Art.143. Legea privind modificarea Constituţiei
 
-# Titlul VII DISPOZIŢII FINALE ŞI TRANZITORII
+# Titlul VII - DISPOZIŢII FINALE ŞI TRANZITORII
 
 * Articolul I
 * Articolul II
