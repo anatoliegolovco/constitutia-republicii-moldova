@@ -84,12 +84,14 @@
 * Art. 67. Sesiuni
 
 ### Secţiunea a 2-a Statutul deputaţilor
+
 * Art. 68. Mandatul reprezentativ
 * Art. 69. Mandatul deputaţilor
 * Art. 70. Incompatibilităţi şi imunităţi
 * Art. 71. Independenţa opiniilor
 
 ### Secţiunea a 3-a Legiferarea
+
 * Art. 72. Categorii de legi
 * Art. 73. Iniţiativa legislativă
 * Art. 74. Adoptarea legilor şi a hotărîrilor
@@ -97,6 +99,7 @@
 * Art. 76. Intrarea în vigoare a legii
 
 ## Capitolul V PREŞEDINTELE REPUBLICII MOLDOVA
+
 * Art. 77. Preşedintele Republicii Moldova, şeful statului
 * Art. 78. Alegerea Preşedintelui
 * Art. 79. Validarea mandatului şi depunerea jurămîntului
@@ -117,7 +120,8 @@
 * Art. 94. Actele Preşedintelui
 * Art. 95. Resursele financiare ale aparatului Preşedintelui, indemnizaţia şi alte drepturi
 
-## Capitolul VI G U V E R N U L
+## Capitolul VI GUVERNUL
+
 * Art. 96. Rolul
 * Art. 97. Structura
 * Art. 98. Învestitura
@@ -128,11 +132,13 @@
 * Art.103. Încetarea mandatului
 
 ## Capitolul VII RAPORTURILE PARLAMENTULUI CU GUVERNUL
+
 * Art.104. Informarea Parlamentului
 * Art.105. Întrebări şi interpelări
 * Art.106. Exprimarea neîncrederii
 
 ## Capitolul VIIIADMINISTRAŢIA PUBLICĂ
+
 * Art.107. Administraţia publică centrală de specialitate
 * Art.108. Forţele armate
 * Art.109. Principiile de bază ale administrării publice locale
@@ -143,6 +149,7 @@
 
 ## Capitolul IX AUTORITATEA JUDECĂTOREASCĂ
 ### Secţiunea 1 Instanţele judecătoreşti
+
 * Art.114. Înfăptuirea justiţiei
 * Art.115. Instanţele judecătoreşti
 * Art.116. Statutul judecătorilor
@@ -153,9 +160,49 @@
 * Art.121. Resursele financiare ale instanţelor judecătoreşti, indemnizaţia şi alte drepturi
 
 ### Secţiunea a 2-a Consiliul Superior al Magistraturii
+
 * Art.122. Componenţa
 * Art.123. Atribuţiile
-* 
+
 ### Secţiunea a 3-a Procuratura
+
 * Art.124. Atribuţiile şi structura
 * Art.125. Mandatul procurorilor
+
+# Titlul IV ECONOMIA NAŢIONALĂ ŞI FINANŢELE PUBLICE
+
+* Art.126. Economia
+* Art.127. Proprietatea
+* Art.128. Proprietatea cetăţenilor străini şi a apatrizilor
+* Art.129. Activitatea economică externă
+* Art.130. Sistemul financiar-creditar
+* Art.131. Bugetul public naţional
+* Art.132. Sistemul fiscal
+* Art.133. Curtea de Conturi
+
+# Titlul V CURTEA CONSTITUŢIONALĂ
+
+* Art.134. Statutul
+* Art.135. Atribuţiile
+* Art.136. Structura
+* Art.137. Independenţa
+* Art.138. Condiţiile pentru numire
+* Art.139. Incompatibilităţi
+* Art.140. Hotărîrile Curţii Constituţionale
+
+# Titlul VI REVIZUIREA CONSTITUŢIEI
+
+* Art.141. Iniţiativa revizuirii
+* Art.142. Limitele revizuirii
+* Art.143. Legea privind modificarea Constituţiei
+
+# Titlul VII DISPOZIŢII FINALE ŞI TRANZITORII
+
+* Articolul I
+* Articolul II
+* Articolul III
+* Articolul IV
+* Articolul V
+* Articolul VI
+* Articolul VII
+* Articolul VIII
