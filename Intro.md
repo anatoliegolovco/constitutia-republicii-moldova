@@ -1,19 +1,3 @@
-# Dezvoltarea constituţională a Republicii Moldova
+ __NOI__, reprezentanţii plenipotenţiari ai poporului Republicii Moldova, deputaţi în Parlament, __PORNIND__ de la aspiraţiile seculare ale poporului de a trăi într-o ţară suverană, exprimate prin proclamarea independenţei Republicii Moldova, __AVÎND__ în vedere continuitatea statalităţii poporului moldovenesc în contextul istoric şi etnic al devenirii lui ca naţiune, __NĂZUIND__ spre satisfacerea intereselor cetăţenilor de altă origine etnică, care împreună cu moldovenii constituie poporul Republicii Moldova, __CONSIDERÎND__ statul de drept, pacea civică, democraţia, demnitatea omului, drepturile şi libertăţile lui, libera dezvoltare a personalităţii umane, dreptatea şi pluralismul politic valori supreme, __FIIND CONŞTIENŢI__ de responsabilitatea şi obligaţiile noastre faţă de generaţiile precedente, actuale şi viitoare, __REAFIRMÎND__ devotamentul nostru faţă de valorile general-umane, dorinţa de a trăi în pace şi bunăînţelegere cu toate popoarele lumii conform principiilor şi normelor unanim recunoscute ale dreptului internaţional, adoptăm Constituţia Republicii Moldova, declarînd-o __LEGE SUPREMĂ A SOCIETĂŢII ŞI A STATULUI__.
 
-## De la 1831 pînă la primul război mondial.
 
-- Regulamentele organice.
-- Proclamaţia dela Islaz.
-- Statutul dezvoltator al Convenţiei dela Parisşi Constituţia României din 1866.
-
-## Perioada interbelică. 
-- Constituţia din 1923.
-- Dictatura regală instaurată prin constituţia din 1938.
-
-# Constituţiile socialiste. 
-- Constituţia din 1925.
-- Constituţia din 1938.
-- Constituţia din 1941.
-- Constituţia din 1978.
-
-# Etapa actuală. Constituţia Republicii Moldova din 1994.
