@@ -15,7 +15,7 @@
     - [Articolul 13. Limba de stat, funcţionarea celorlalte limbi](Textul Constituției/Titlul I/Articolul 13.md)
     - [Articolul 14. Capitala](Textul Constituției/Titlul I/Articolul 14.md)
 - Titlul II - DREPTURILE, LIBERTĂŢILE ŞI ÎNDATORIRILE FUNDAMENTALE
-  - CAPITOLUL I - DISPOZIŢII GENERALE
+  - Capitolul I - DISPOZIŢII GENERALE
     - Articolul 15. Universalitatea
     - Articolul 16. Egalitatea
     - Articolul 17. Cetăţenia Republicii Moldova
