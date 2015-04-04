@@ -88,7 +88,7 @@
   - Capitolul V - PREŞEDINTELE REPUBLICII MOLDOVA
     - Articolul 77. Preşedintele Republicii Moldova, şeful statului
     - Articolul 78. Alegerea Preşedintelui
-    - Articolul 79. Validarea mandatului şi depunerea jurămîntului
+    - [Articolul 79. Validarea mandatului şi depunerea jurămîntului](Textul Constituției/Titlul III/Capitolul V/Articolul 79.md)
     - Articolul 80. Durata mandatului
     - Articolul 81. Incompatibilităţi şi imunităţi
     - Articolul 82. Numirea Guvernului
