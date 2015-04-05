@@ -1,4 +1,4 @@
-# Articolul 26 Dreptul la apărare
+# Articolul 26 - Dreptul la apărare
 
 (1) Dreptul la apărare este garantat.
 
